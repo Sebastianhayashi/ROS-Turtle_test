@@ -2,17 +2,17 @@
 
 使用 PROXMOX 启动虚拟机，并且进入 openEuler 安装程序。
 
-![[proxmox-boot.png]]
+![proxmox-boot.png](../img/proxmox-boot.png)
 ## openEuler 安装
 
 在进入 openEuler 的安装界面后，创建用户与 root 用户，以及选择安装位置即可进行安装。
-![[install.png]]
+![install.png](../img/install.png)
 
-![[configuration.png]]
+![configuration.png](../img/configuration.pn)
 
 以下是 openEuler 安装过程图：
 
-![[installation.png]]
+![installation.png](../img/installation.png)
 
 ### 预期行为：
 
@@ -21,11 +21,11 @@
 #### 实际行为：
 
 安装成功（如下图）。
-![[complete-installation.png]]
+![complete-installation.png](../img/complete-installation.png)
 
 进入系统后使用 `./neofetch` 输出系统信息：
 
-![[install-succeed.png]]
+![install-succeed.png](../img/install-succeed.png)
 ### 其他说明
 
 我使用他人提的服务器开启虚拟机，所以需要 root 管理员创建虚拟机，我无法提供创建虚拟机的过程，所以只有提供安装 openEuler 的过程。
