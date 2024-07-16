@@ -57,8 +57,21 @@ EOF'
 
 `source ~/.bashrc`
 
-### 遇到的问题
+### ~~遇到的问题~~
 
 ![turtle-issue.png](./img/turtle-issue.png)
 
-小乌龟窗口可以正常显示，但是无法进行移动。
+~~小乌龟窗口可以正常显示，但是无法进行移动。~~
+
+问题解决：
+[issue1](https://github.com/Sebastianhayashi/ROS-begin/issues/1)
+[issue2](https://github.com/Sebastianhayashi/ROS-begin/issues/2)
+
+## 预期结果
+
+小乌龟正常运动。
+
+## 实际结果
+
+如下图所示，小乌龟正常运动：
+![turtle-move.png](./img/turtle-move.png)
