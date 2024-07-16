@@ -59,6 +59,6 @@ EOF'
 
 ### 遇到的问题
 
-![[turtle-issue.png]]
+![turtle-issue.png](./img/turtle-issue.png)
 
 小乌龟窗口可以正常显示，但是无法进行移动。
