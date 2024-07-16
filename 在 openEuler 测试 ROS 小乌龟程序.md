@@ -8,7 +8,7 @@
 在进入 openEuler 的安装界面后，创建用户与 root 用户，以及选择安装位置即可进行安装。
 ![install.png](./img/install.png)
 
-![configuration.png](./img/configuration.pn)
+![configuration.png](./img/configuration.png)
 
 以下是 openEuler 安装过程图：
 
