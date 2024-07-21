@@ -11,5 +11,5 @@
 ## 测试报告与结果
 
 - [x86](https://github.com/Sebastianhayashi/ROS-Turtle_test/blob/main/Test%20Result/%E5%9C%A8%20openEuler%20%E6%B5%8B%E8%AF%95%20ROS%20%E5%B0%8F%E4%B9%8C%E9%BE%9F%E7%A8%8B%E5%BA%8F-x86.md)（通过）
-- [riscv64](https://github.com/Sebastianhayashi/ROS-Turtle_test/blob/main/Test%20Result/%E5%9C%A8%20openEuler%20%E6%B5%8B%E8%AF%95%20ROS%20%E5%B0%8F%E4%B9%8C%E9%BE%9F%E7%A8%8B%E5%BA%8F-rv.md) （未完成） -> [issue](https://github.com/Sebastianhayashi/ROS-Turtle_test/issues/3)
+- [riscv64](https://github.com/Sebastianhayashi/ROS-Turtle_test/blob/main/Test%20Result/%E5%9C%A8%20openEuler%20%E6%B5%8B%E8%AF%95%20ROS%20%E5%B0%8F%E4%B9%8C%E9%BE%9F%E7%A8%8B%E5%BA%8F-rv64.md) （通过）
 - arm64 （todo）
