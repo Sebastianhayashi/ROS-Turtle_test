@@ -4,22 +4,24 @@
 
 ### MacBook
 
-硬件：MacBook Air M1
-内存：8G
-系统：macOS 15.0（beta）
+- 硬件：MacBook Air M1
+- 内存：8G
+- 系统：macOS 15.0（beta）
 
 ### 虚拟机
 
-QEMU 版本：9.0.2
+- QEMU 版本：9.0.2
 
 ### openEuler
 
-版本：openEuler-24.03-LTS 20240720 v0.1
+- 版本：openEuler-24.03-LTS 20240720 v0.1
 
 ### 开始之前
 
-- 确保你的 QEMU 是从源码编译的，并不是从 brew 上直接安装的
-- 镜像等文件链接：https://mirror.iscas.ac.cn/openeuler-sig-riscv/openEuler-RISC-V/devel/20240720/v0.1/QEMU/
+- 如果你也是使用 macOS，确保你的 QEMU 是从源码编译的，并不是从 brew 上直接安装的
+> 使用 macOS 需要在预编译 qemu 的时候正确添加参数，下文中有提及。
+- 如果你需要更多镜像等文件，链接如下：https://mirror.iscas.ac.cn/openeuler-sig-riscv/openEuler-RISC-V/devel/20240720/v0.1/QEMU/
+- 确保下载的是正确、预先带有 GUI 界面的镜像，否则可能会遇到如该 [issue](https://github.com/Sebastianhayashi/ROS-Turtle_test/issues/3) 中的问题。
 
 ## 一、仿真 openEuler riscv64 环境
 
